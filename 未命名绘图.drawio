@@ -52,7 +52,7 @@
           </mxCell>
         </object>
         <mxCell id="jp0kO5IZLnnAff3FtfDi-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;主机名: nginx01.mall.com&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: 192.168.20.81&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jp0kO5IZLnnAff3FtfDi-49">
-          <mxGeometry x="260" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jp0kO5IZLnnAff3FtfDi-48" value="" style="group" vertex="1" connectable="0" parent="jp0kO5IZLnnAff3FtfDi-49">
           <mxGeometry width="170" height="142.5" as="geometry" />
@@ -81,7 +81,7 @@
           </mxCell>
         </object>
         <mxCell id="jp0kO5IZLnnAff3FtfDi-6" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;主机名: nginx02.mall.com&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IP: 192.168.20.82&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jp0kO5IZLnnAff3FtfDi-4">
-          <mxGeometry x="-41.75" y="105" width="160" height="40" as="geometry" />
+          <mxGeometry x="-29.75" y="105" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jp0kO5IZLnnAff3FtfDi-50" value="" style="group" vertex="1" connectable="0" parent="jp0kO5IZLnnAff3FtfDi-51">
           <mxGeometry width="170" height="155" as="geometry" />
